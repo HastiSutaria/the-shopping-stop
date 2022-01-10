@@ -12,7 +12,6 @@
   background-color: white;
   z-index: 1;
   border-radius: 10px;
-  
 }
 .product__rating {
   display: flex;
@@ -38,4 +37,5 @@
   margin-top: 10px;
   color: white;
   border-radius: 4px;
+  cursor: pointer;
 }
