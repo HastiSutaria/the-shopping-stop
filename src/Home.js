@@ -25,7 +25,7 @@ function Home() {
             title="Block print Jaipuri Bedsheet"
             price={1199}
             image={P8}
-            rating={5}
+            rating={4}
           />
           <Product
             id="119"
