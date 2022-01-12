@@ -9,10 +9,10 @@
   z-index: 100;
 }
 .header__logo {
-  width: 200px;
+  width: 165px;
   object-fit: contain;
 
-  margin-top: 18px;
+  margin-top: 27px;
   /* padding-left: -10px; */
   margin-bottom: 18px;
 }
