@@ -1,16 +1,15 @@
-
 import firebase from "firebase/compat/app";
-import "firebase/compat/auth"
-import "firebase/compat/firestore"
+import "firebase/compat/auth";
+import "firebase/compat/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBkWBYgEsYyc7SwLEMlAAFCd1Mp1uPwEko",
-  authDomain: "shoppingstop-4d309.firebaseapp.com",
-  projectId: "shoppingstop-4d309",
-  storageBucket: "shoppingstop-4d309.appspot.com",
-  messagingSenderId: "1001834739072",
-  appId: "1:1001834739072:web:0daeed1605602e0ce3bd65",
-  measurementId: "G-6CX92K94D1",
+  apiKey: "AIzaSyA72Ow49yByAou8_2lB6Wl6_kX2doddDfw",
+  authDomain: "theshopppingstop.firebaseapp.com",
+  projectId: "theshopppingstop",
+  storageBucket: "theshopppingstop.appspot.com",
+  messagingSenderId: "666971771125",
+  appId: "1:666971771125:web:aaf575ffcabfd0505d75bc",
+  measurementId: "G-NM27KXBPVP",
 };
 
 const firebaseApp = firebase.initializeApp(firebaseConfig);
