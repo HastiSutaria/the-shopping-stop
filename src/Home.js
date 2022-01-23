@@ -93,7 +93,7 @@ function Home() {
           
           <Product
             id="113"
-            title="Pottery Handmade Multi-purpose Hanger "
+            title="Handmade Multi-purpose Hanger "
             price={249}
             image={P3}
             rating={4}
