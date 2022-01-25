@@ -31,5 +31,5 @@ https://user-images.githubusercontent.com/69644003/150840904-99cc2fd5-00e1-4367-
 * Open Git Bash.
 * Change the current working directory to the location where you want the cloned directory.
 * Type git clone, and then paste the URL you copied earlier. It will look like this, with your GitHub username instead of YOUR-USERNAME:
-* $ git clone https://github.com/YOUR-USERNAME/the-shopping-stop
+* $ git clone ```https://github.com/YOUR-USERNAME/the-shopping-stop```
 * Press Enter. Your local clone will be created.
