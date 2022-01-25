@@ -22,7 +22,8 @@ https://user-images.githubusercontent.com/69644003/150840904-99cc2fd5-00e1-4367-
 
 * In the top-right corner of the page, click Fork.
 <p><img src="https://docs.github.com/assets/cb-6294/images/help/repository/fork_button.jpg" width=700px></p>
+
 * Right now, you have a fork of the the-shopping-stop repository, but you don't have the files in that repository locally on your computer.
 * On GitHub.com, navigate to your fork of the-shopping-stop repository.
 * Above the list of files, click on download Code.
-![](https://docs.github.com/assets/cb-20366/images/help/repository/code-button.png)
+<img src = "https://docs.github.com/assets/cb-20366/images/help/repository/code-button.png" width = 600px>
