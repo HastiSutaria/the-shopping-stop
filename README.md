@@ -33,3 +33,11 @@ https://user-images.githubusercontent.com/69644003/150840904-99cc2fd5-00e1-4367-
 * Type git clone, and then paste the URL you copied earlier. It will look like this, with your GitHub username instead of YOUR-USERNAME:
 * $ git clone ```https://github.com/YOUR-USERNAME/the-shopping-stop```
 * Press Enter. Your local clone will be created.
+* Open the terminal and inside the the-shopping-stop directory perform ```npm install```.
+* In second terminal traverse to ```the-shopping-stop/functions``` and perform ```npm install```.
+* Give ```npm start``` in first terminal and ```firebase emulators:start``` in second terminal.
+* Boom ! ```localhost:3000``` has the working site. Keep the backend log open in ```localhost:4000`. (You can find the link from second terminal)
+
+
+
+### Thank you for visiting.
