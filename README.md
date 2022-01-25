@@ -26,7 +26,7 @@ https://user-images.githubusercontent.com/69644003/150840904-99cc2fd5-00e1-4367-
 * Right now, you have a fork of the the-shopping-stop repository, but you don't have the files in that repository locally on your computer.
 * On GitHub.com, navigate to your fork of the-shopping-stop repository.
 * Above the list of files, click on download Code.
-<img src = "https://docs.github.com/assets/cb-20366/images/help/repository/code-button.png" width = 450px>
+<p><img src = "https://docs.github.com/assets/cb-20366/images/help/repository/code-button.png" width = 450px></p>
 * Open Git Bash.
 * Change the current working directory to the location where you want the cloned directory.
 * Type git clone, and then paste the URL you copied earlier. It will look like this, with your GitHub username instead of YOUR-USERNAME:
