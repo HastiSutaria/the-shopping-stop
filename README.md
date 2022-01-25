@@ -36,7 +36,7 @@ https://user-images.githubusercontent.com/69644003/150840904-99cc2fd5-00e1-4367-
 * Open the terminal and inside the the-shopping-stop directory perform ```npm install```.
 * In second terminal traverse to ```the-shopping-stop/functions``` and perform ```npm install```.
 * Give ```npm start``` in first terminal and ```firebase emulators:start``` in second terminal.
-* Boom ! ```localhost:3000``` has the working site. Keep the backend log open in ```localhost:4000`. (You can find the link from second terminal)
+* Boom ! ```localhost:3000``` has the working site. Keep the backend log open in ```localhost:4000```. (You can find the link from second terminal)
 
 
 
